@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.a250d925.chunk.css",
-    "main.js": "/static/js/main.a047d351.chunk.js",
-    "main.js.map": "/static/js/main.a047d351.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4f822858.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4f822858.js.map",
-    "static/js/2.a43aaa14.chunk.js": "/static/js/2.a43aaa14.chunk.js",
-    "static/js/2.a43aaa14.chunk.js.map": "/static/js/2.a43aaa14.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9099a2d83717a9542b6a20cb2b90e97a.js": "/precache-manifest.9099a2d83717a9542b6a20cb2b90e97a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a250d925.chunk.css.map": "/static/css/main.a250d925.chunk.css.map",
-    "static/js/2.a43aaa14.chunk.js.LICENSE.txt": "/static/js/2.a43aaa14.chunk.js.LICENSE.txt",
-    "static/media/flight.jpg": "/static/media/flight.33e75723.jpg",
-    "static/media/home.jpg": "/static/media/home.c7cbee50.jpg",
-    "static/media/now.png": "/static/media/now.783ce3ab.png",
-    "static/media/personal.jpg": "/static/media/personal.c929f16c.jpg",
-    "static/media/phonecall.png": "/static/media/phonecall.30bbec2a.png",
-    "static/media/rhi.png": "/static/media/rhi.ffea9f28.png",
-    "static/media/sompo.png": "/static/media/sompo.d959933a.png",
-    "static/media/whatsapp.png": "/static/media/whatsapp.cf804fc2.png"
+    "main.css": "/rig-associate/static/css/main.a250d925.chunk.css",
+    "main.js": "/rig-associate/static/js/main.d05dce69.chunk.js",
+    "main.js.map": "/rig-associate/static/js/main.d05dce69.chunk.js.map",
+    "runtime-main.js": "/rig-associate/static/js/runtime-main.5528472a.js",
+    "runtime-main.js.map": "/rig-associate/static/js/runtime-main.5528472a.js.map",
+    "static/js/2.a43aaa14.chunk.js": "/rig-associate/static/js/2.a43aaa14.chunk.js",
+    "static/js/2.a43aaa14.chunk.js.map": "/rig-associate/static/js/2.a43aaa14.chunk.js.map",
+    "index.html": "/rig-associate/index.html",
+    "precache-manifest.28e3f9085eed090f6b2409cb986f388d.js": "/rig-associate/precache-manifest.28e3f9085eed090f6b2409cb986f388d.js",
+    "service-worker.js": "/rig-associate/service-worker.js",
+    "static/css/main.a250d925.chunk.css.map": "/rig-associate/static/css/main.a250d925.chunk.css.map",
+    "static/js/2.a43aaa14.chunk.js.LICENSE.txt": "/rig-associate/static/js/2.a43aaa14.chunk.js.LICENSE.txt",
+    "static/media/flight.jpg": "/rig-associate/static/media/flight.33e75723.jpg",
+    "static/media/home.jpg": "/rig-associate/static/media/home.c7cbee50.jpg",
+    "static/media/now.png": "/rig-associate/static/media/now.783ce3ab.png",
+    "static/media/personal.jpg": "/rig-associate/static/media/personal.c929f16c.jpg",
+    "static/media/phonecall.png": "/rig-associate/static/media/phonecall.30bbec2a.png",
+    "static/media/rhi.png": "/rig-associate/static/media/rhi.ffea9f28.png",
+    "static/media/sompo.png": "/rig-associate/static/media/sompo.d959933a.png",
+    "static/media/whatsapp.png": "/rig-associate/static/media/whatsapp.cf804fc2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f822858.js",
+    "static/js/runtime-main.5528472a.js",
     "static/js/2.a43aaa14.chunk.js",
     "static/css/main.a250d925.chunk.css",
-    "static/js/main.a047d351.chunk.js"
+    "static/js/main.d05dce69.chunk.js"
   ]
 }
