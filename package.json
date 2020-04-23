@@ -2,6 +2,7 @@
     "name": "insur_web",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://phangster.github.io/rig-associate/",
     "dependencies": {
         "@material-ui/core": "^4.9.1",
         "@material-ui/icons": "^4.9.1",
