@@ -1,43 +1,45 @@
 {
-  "name": "insur_web",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@material-ui/core": "^4.9.1",
-    "@material-ui/icons": "^4.9.1",
-    "classnames": "^2.2.6",
-    "emailjs-com": "^2.4.1",
-    "formik": "^2.1.4",
-    "material-kit-react": "^1.8.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-material-ui-form-validator": "^2.0.10",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.0",
-    "reactstrap": "^8.4.1",
-    "yup": "^0.28.2"
-  },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+    "name": "insur_web",
+    "version": "0.1.0",
+    "private": true,
+    "homepage": "http://phangster.github.io/rig-associate/",
+    "dependencies": {
+        "@material-ui/core": "^4.9.1",
+        "@material-ui/icons": "^4.9.1",
+        "classnames": "^2.2.6",
+        "emailjs-com": "^2.4.1",
+        "formik": "^2.1.4",
+        "gh-pages": "^2.2.0",
+        "material-kit-react": "^1.8.0",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-material-ui-form-validator": "^2.0.10",
+        "react-router-dom": "^5.1.2",
+        "react-scripts": "^3.4.0",
+        "reactstrap": "^8.4.1",
+        "yup": "^0.28.2"
+    },
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
 }
