@@ -1,0 +1,10 @@
+.infoBlock {
+    padding: 8%
+}
+@media screen and (min-width: 40em) {
+    .infoBlock {
+        padding: 3%;
+        width: 20%;
+        display: inline-block;
+    }
+}
