@@ -1,6 +1,5 @@
 {
   "name": "insur_web",
-  "homepage": "http://phangster.github.io/rig-associate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,8 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
   }
 }
