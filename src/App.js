@@ -13,7 +13,7 @@ import "./App.css";
 class App extends Component {
   render() {
     return (
-        <Router basename={process.env.PUBLIC_URL}>
+        // <Router basename={process.env.PUBLIC_URL}>
           <div className="App">
             <Route exact path="/" component={Home} />
             <Route exact path="/raffleshealthinsurance" component={Raffles} />
@@ -21,7 +21,7 @@ class App extends Component {
             <Route exact path="/nowhealthmedical" component={Now} />
             <Route exact path="/enquiryform" component={EnquiryForm} />
           </div>
-        </Router>
+        // </Router>
     );
   }
 }
