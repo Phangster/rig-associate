@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rig-associate/static/css/main.8c37d5a4.chunk.css",
+    "main.js": "/rig-associate/static/js/main.14bacb8c.chunk.js",
+    "main.js.map": "/rig-associate/static/js/main.14bacb8c.chunk.js.map",
+    "runtime-main.js": "/rig-associate/static/js/runtime-main.5528472a.js",
+    "runtime-main.js.map": "/rig-associate/static/js/runtime-main.5528472a.js.map",
+    "static/js/2.237117fc.chunk.js": "/rig-associate/static/js/2.237117fc.chunk.js",
+    "static/js/2.237117fc.chunk.js.map": "/rig-associate/static/js/2.237117fc.chunk.js.map",
+    "index.html": "/rig-associate/index.html",
+    "precache-manifest.17ecfab31d2ecd7c717b99f35bec313a.js": "/rig-associate/precache-manifest.17ecfab31d2ecd7c717b99f35bec313a.js",
+    "service-worker.js": "/rig-associate/service-worker.js",
+    "static/css/main.8c37d5a4.chunk.css.map": "/rig-associate/static/css/main.8c37d5a4.chunk.css.map",
+    "static/js/2.237117fc.chunk.js.LICENSE.txt": "/rig-associate/static/js/2.237117fc.chunk.js.LICENSE.txt",
+    "static/media/flight.jpg": "/rig-associate/static/media/flight.33e75723.jpg",
+    "static/media/home.jpg": "/rig-associate/static/media/home.c7cbee50.jpg",
+    "static/media/now.png": "/rig-associate/static/media/now.783ce3ab.png",
+    "static/media/personal.jpg": "/rig-associate/static/media/personal.c929f16c.jpg",
+    "static/media/phonecall.png": "/rig-associate/static/media/phonecall.30bbec2a.png",
+    "static/media/rhi.png": "/rig-associate/static/media/rhi.ffea9f28.png",
+    "static/media/sompo.png": "/rig-associate/static/media/sompo.d959933a.png",
+    "static/media/whatsapp.png": "/rig-associate/static/media/whatsapp.cf804fc2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5528472a.js",
+    "static/js/2.237117fc.chunk.js",
+    "static/css/main.8c37d5a4.chunk.css",
+    "static/js/main.14bacb8c.chunk.js"
+  ]
+}
